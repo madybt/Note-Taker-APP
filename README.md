@@ -30,5 +30,7 @@ render:
 
 Here is the screenshot of the working app
 ![Screenshot 2024-11-12 140817](https://github.com/user-attachments/assets/d72861c4-762b-4093-9d50-1e4cd171b7d3)
+![Screenshot 2024-11-12 140859](https://github.com/user-attachments/assets/41b2d55e-e2b2-467b-ab54-ed342b31f1e5)
+
 
 
