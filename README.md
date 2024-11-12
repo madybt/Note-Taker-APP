@@ -27,3 +27,8 @@ Here is the link to the Github Repo:
 https://github.com/madybt/Note-Taker-APP
 
 render:
+
+Here is the screenshot of the working app
+![Screenshot 2024-11-12 140817](https://github.com/user-attachments/assets/d72861c4-762b-4093-9d50-1e4cd171b7d3)
+
+
